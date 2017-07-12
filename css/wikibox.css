@@ -1,0 +1,123 @@
+/* Wikibox Plugin Style */
+.wikibox {
+	border: 1px dashed #ccc;
+	background-color: #f9f9f9;
+	color: #000;
+	font-family: tahoma, arial, san-serif;
+	font-size: 1em;
+	padding: 15px 15px 3px 15px;
+	margin: 5px;
+	}
+	.wikibox h3 {
+		margin: 0;
+		line-height: 1em;
+		padding: 5px 3px;
+		background-color: #f1f1f1;
+		}
+	.wikibox p {
+		margin: 0 0 15px 0;
+		}
+	.wikibox a {
+		text-decoration: none;
+		color: #0645ad;
+		background: none;
+		border: 0 !important;
+		}
+	.wikibox a:visited {
+		color: #0b0080;
+		}
+	.wikibox a:active {
+		color: #faa700;
+		}
+	.wikibox a:hover {
+		text-decoration: underline;
+		}
+	.wikibox a.stub {
+		color: #772233;
+		}
+	.wikibox a.new {
+		color: #ba0000;
+		}
+	.wikibox a.new:visited {
+		color: #a55858;
+		}
+	.wikibox .wikiright {
+		font-size: .8em;
+		margin-bottom: 20px;
+		}
+		.wikibox a.wikilink, .wikibox a.wikilink:hover {
+			text-decoration: none;
+			}
+	/* From here down has been adopted and slightly modified from Wikipedia skin */
+	/* Images */
+	.wikibox div.floatright, .wikibox table.floatright {
+		clear: right;
+		float: right;
+		position: relative;
+		margin: 0 0 .5em .5em;
+		border: 0;
+	}
+	.wikibox div.floatright p { font-style: italic; }
+	.wikibox div.floatleft, .wikibox table.floatleft {
+		float: left;
+		clear: left;
+		position: relative;
+		margin: 0 .5em .5em 0;
+		border: 0;
+	}
+	.wikibox div.floatleft p { font-style: italic; }
+	/* Thumbnails */
+	.wikibox div.thumb {
+		margin-bottom: .5em;
+		border-style: solid;
+		border-color: white;
+		width: auto;
+		background-color: transparent;
+	}
+	.wikibox div.thumbinner {
+		border: 1px solid #ccc;
+		padding: 3px !important;
+		background-color: #f9f9f9;
+		font-size: 94%;
+		text-align: center;
+		overflow: hidden;
+	}
+	.wikibox .thumbimage {
+		border: 1px solid #ccc;
+	}
+	.wikibox  .thumbcaption {
+		border: none;
+		text-align: left;
+		line-height: 1.4em;
+		padding: 3px !important;
+		font-size: 94%;
+	}
+	.wikibox div.magnify {
+		float: right;
+		border: none !important;
+		background: none !important;
+	}
+	.wikibox div.magnify a, .wikibox div.magnify img {
+		display: block;
+		border: none !important;
+		background: none !important;
+	}
+	/* @noflip */
+	.wikibox div.tright {
+		clear: right;
+		float: right;
+		border-width: .5em 0 .8em 1.4em;
+	}
+	/* @noflip */
+	.wikibox div.tleft {
+		float: left;
+		clear: left;
+		margin-right: .5em;
+		border-width: .5em 1.4em .8em 0;
+	}
+	.wikibox img.thumbborder {
+		border: 1px solid #dddddd;
+	}
+	.wikibox .hiddenStructure {
+		display: none;
+	}

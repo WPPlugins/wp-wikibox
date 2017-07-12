@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-WikiBox\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-10-05 11:43+0330\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Behrooz Sangani <sangani@gmail.com>\n"
+"Language-Team: BSurprised\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp-wikibox.php:74
+msgid "WP-WikiBox"
+msgstr ""
+
+#: ../wp-wikibox.php:81
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ../wp-wikibox.php:86
+msgid "WP-WikiBox Options"
+msgstr ""
+
+#: ../wp-wikibox.php:87
+msgid "Use this form to change options for the WP-WikiBox plugin."
+msgstr ""
+
+#: ../wp-wikibox.php:96
+msgid "General"
+msgstr ""
+
+#: ../wp-wikibox.php:99
+msgid "Include article title"
+msgstr ""
+
+#: ../wp-wikibox.php:100
+msgid "Include images, if any, in the box"
+msgstr ""
+
+#: ../wp-wikibox.php:101
+msgid "Include links in the wiki content"
+msgstr ""
+
+#: ../wp-wikibox.php:102
+msgid "Include the `view original` link to Wikipedia"
+msgstr ""
+
+#: ../wp-wikibox.php:103
+msgid "Include the `read more` link to Wikipedia"
+msgstr ""
+
+#: ../wp-wikibox.php:104
+msgid "Include `edit link` to Wikipedia article edit page"
+msgstr ""
+
+#: ../wp-wikibox.php:105
+msgid "Add rel=\"nofollow\" to Wikipedia links"
+msgstr ""
+
+#: ../wp-wikibox.php:107
+msgid "Enable GZip compression while fetching data from Wikipedia"
+msgstr ""
+
+#: ../wp-wikibox.php:109
+msgid "Include the WP-WikiBox powered-by icon for other users to find out about this plugin, please. Thank you!"
+msgstr ""
+
+#: ../wp-wikibox.php:111
+msgid "Language"
+msgstr ""
+
+#: ../wp-wikibox.php:117
+msgid "Cache method"
+msgstr ""
+
+#: ../wp-wikibox.php:119
+msgid "Wordpress Transient Cache"
+msgstr ""
+
+#: ../wp-wikibox.php:120
+msgid "File Cache"
+msgstr ""
+
+#: ../wp-wikibox.php:122
+msgid "Cache folder is writable"
+msgstr ""
+
+#: ../wp-wikibox.php:122
+msgid "Cache folder IS NOT writable"
+msgstr ""
+
+#: ../wp-wikibox.php:125
+msgid "Cache time"
+msgstr ""
+
+#: ../wp-wikibox.php:126
+msgid "How long should we cache box data? (1 day = 60*60*24 = 86400 seconds)"
+msgstr ""
+
+#: ../wp-wikibox.php:133
+msgid "Save Changes"
+msgstr ""
+
+#: ../includes/functions.php:26
+#, php-format
+msgid "From <a rel=\"nofollow\" title=\"Wikipedia\" href=\"http://%s.wikipedia.org/\">Wikipedia</a>, the free encyclopedia"
+msgstr ""
+
+#: ../includes/functions.php:29
+msgid "View on Wikipedia"
+msgstr ""
+
+#: ../includes/functions.php:29
+msgid "[+]"
+msgstr ""
+
+#: ../includes/functions.php:33
+msgid "Edit Article"
+msgstr ""
+
+#: ../includes/functions.php:33
+msgid "[edit]"
+msgstr ""
+
+#: ../includes/functions.php:49
+msgid "Read More"
+msgstr ""
+
+#: ../includes/functions.php:49
+msgid "[...]"
+msgstr ""
+
+#: ../includes/functions.php:93
+#: ../includes/functions.php:122
+#: ../includes/functions.php:247
+msgid "Error"
+msgstr ""
+
+#: ../includes/functions.php:96
+msgid "Unable to load Wikipedia XML string!"
+msgstr ""
+
+#: ../includes/functions.php:125
+msgid "Unable to load Wikipedia parsed XML string!"
+msgstr ""
+
+#: ../includes/functions.php:247
+msgid "Failed to contact Wikipedia server."
+msgstr ""
+
+#: ../includes/functions.php:282
+msgid "Unable to load Language XML file!"
+msgstr ""
+

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<languages>
+	<lang><code>af</code><link>http://af.wikipedia.org/wiki/</link><name>Afrikaans</name></lang>
+	<lang><code>als</code><link>http://als.wikipedia.org/wiki/</link><name>Alemannisch</name></lang>
+	<lang><code>an</code><link>http://an.wikipedia.org/wiki/</link><name>Aragonés</name></lang>
+
+	<lang><code>ar</code><link>http://ar.wikipedia.org/wiki/</link><name>العربية</name></lang>
+	<lang><code>ast</code><link>http://ast.wikipedia.org/wiki/</link><name>Asturianu</name></lang>
+	<lang><code>ay</code><link>http://ay.wikipedia.org/wiki/</link><name>Aymar aru</name></lang>
+	<lang><code>be</code><link>http://be.wikipedia.org/wiki/</link><name>Беларуская</name></lang>
+	<lang><code>bg</code><link>http://bg.wikipedia.org/wiki/</link><name>Български</name></lang>
+	<lang><code>bn</code><link>http://bn.wikipedia.org/wiki/</link><name>বাংলা</name></lang>
+
+	<lang><code>bs</code><link>http://bs.wikipedia.org/wiki/</link><name>Bosanski</name></lang>
+	<lang><code>ca</code><link>http://ca.wikipedia.org/wiki/</link><name>Català</name></lang>
+	<lang><code>cbk-zam</code><link>http://cbk-zam.wikipedia.org/wiki/</link><name>Chavacano de Zamboanga</name></lang>
+	<lang><code>ceb</code><link>http://ceb.wikipedia.org/wiki/</link><name>Cebuano</name></lang>
+	<lang><code>ch</code><link>http://ch.wikipedia.org/wiki/</link><name>Chamoru</name></lang>
+	<lang><code>co</code><link>http://co.wikipedia.org/wiki/</link><name>Corsu</name></lang>
+
+	<lang><code>cr</code><link>http://cr.wikipedia.org/wiki/</link><name>Nēhiyawēwin / ᓀᐦᐃᔭᐍᐏᐣ</name></lang>
+	<lang><code>cs</code><link>http://cs.wikipedia.org/wiki/</link><name>Česky</name></lang>
+	<lang><code>csb</code><link>http://csb.wikipedia.org/wiki/</link><name>Kaszëbsczi</name></lang>
+	<lang><code>cy</code><link>http://cy.wikipedia.org/wiki/</link><name>Cymraeg</name></lang>
+	<lang><code>da</code><link>http://da.wikipedia.org/wiki/</link><name>Dansk</name></lang>
+	<lang><code>de</code><link>http://de.wikipedia.org/wiki/</link><name>Deutsch</name></lang>
+
+	<lang><code>el</code><link>http://el.wikipedia.org/wiki/</link><name>Ελληνικά</name></lang>
+	<lang><code>en</code><link>http://en.wikipedia.org/wiki/</link><name>English</name></lang>
+	<lang><code>simple</code><link>http://simple.wikipedia.org/wiki/</link><name>Simple English</name></lang>
+	<lang><code>eo</code><link>http://eo.wikipedia.org/wiki/</link><name>Esperanto</name></lang>
+	<lang><code>es</code><link>http://es.wikipedia.org/wiki/</link><name>Español</name></lang>
+	<lang><code>et</code><link>http://et.wikipedia.org/wiki/</link><name>Eesti</name></lang>
+	<lang><code>eu</code><link>http://eu.wikipedia.org/wiki/</link><name>Euskara</name></lang>
+
+	<lang><code>fa</code><link>http://fa.wikipedia.org/wiki/</link><name>فارسی</name></lang>
+	<lang><code>fi</code><link>http://fi.wikipedia.org/wiki/</link><name>Suomi</name></lang>
+	<lang><code>fr</code><link>http://fr.wikipedia.org/wiki/</link><name>Français</name></lang>
+	<lang><code>frp</code><link>http://frp.wikipedia.org/wiki/</link><name>Arpetan</name></lang>
+	<lang><code>fur</code><link>http://fur.wikipedia.org/wiki/</link><name>Furlan</name></lang>
+	<lang><code>fy</code><link>http://fy.wikipedia.org/wiki/</link><name>Frysk</name></lang>
+
+	<lang><code>ga</code><link>http://ga.wikipedia.org/wiki/</link><name>Gaeilge</name></lang>
+	<lang><code>gl</code><link>http://gl.wikipedia.org/wiki/</link><name>Galego</name></lang>
+	<lang><code>gn</code><link>http://gn.wikipedia.org/wiki/</link><name>Avañe'ẽ</name></lang>
+	<lang><code>he</code><link>http://he.wikipedia.org/wiki/</link><name>עברית</name></lang>
+	<lang><code>hi</code><link>http://hi.wikipedia.org/wiki/</link><name>हिन्दी</name></lang>
+	<lang><code>hr</code><link>http://hr.wikipedia.org/wiki/</link><name>Hrvatski</name></lang>
+
+	<lang><code>ht</code><link>http://ht.wikipedia.org/wiki/</link><name>Kreyòl ayisyen</name></lang>
+	<lang><code>hy</code><link>http://hy.wikipedia.org/wiki/</link><name>Հայերեն</name></lang>
+	<lang><code>hu</code><link>http://hu.wikipedia.org/wiki/</link><name>Magyar</name></lang>
+	<lang><code>ia</code><link>http://ia.wikipedia.org/wiki/</link><name>Interlingua</name></lang>
+	<lang><code>id</code><link>http://id.wikipedia.org/wiki/</link><name>Bahasa Indonesia</name></lang>
+	<lang><code>ig</code><link>http://ig.wikipedia.org/wiki/</link><name>Igbo</name></lang>
+
+	<lang><code>io</code><link>http://io.wikipedia.org/wiki/</link><name>Ido</name></lang>
+	<lang><code>is</code><link>http://is.wikipedia.org/wiki/</link><name>Íslenska</name></lang>
+	<lang><code>it</code><link>http://it.wikipedia.org/wiki/</link><name>Italiano</name></lang>
+	<lang><code>ja</code><link>http://ja.wikipedia.org/wiki/</link><name>日本語</name></lang>
+	<lang><code>jv</code><link>http://jv.wikipedia.org/wiki/</link><name>Basa Jawa</name></lang>
+	<lang><code>ka</code><link>http://ka.wikipedia.org/wiki/</link><name>ქართული</name></lang>
+
+	<lang><code>ko</code><link>http://ko.wikipedia.org/wiki/</link><name>한국어</name></lang>
+	<lang><code>lad</code><link>http://lad.wikipedia.org/wiki/</link><name>Ladino</name></lang>
+	<lang><code>la</code><link>http://la.wikipedia.org/wiki/</link><name>Latina</name></lang>
+	<lang><code>lb</code><link>http://lb.wikipedia.org/wiki/</link><name>Lëtzebuergesch</name></lang>
+	<lang><code>lmo</code><link>http://lmo.wikipedia.org/wiki/</link><name>Lumbaart</name></lang>
+	<lang><code>ln</code><link>http://ln.wikipedia.org/wiki/</link><name>Lingála</name></lang>
+
+	<lang><code>mk</code><link>http://mk.wikipedia.org/wiki/</link><name>Македонски</name></lang>
+	<lang><code>mi</code><link>http://mi.wikipedia.org/wiki/</link><name>Māori</name></lang>
+	<lang><code>ms</code><link>http://ms.wikipedia.org/wiki/</link><name>Bahasa Melayu</name></lang>
+	<lang><code>mt</code><link>http://mt.wikipedia.org/wiki/</link><name>Malti</name></lang>
+	<lang><code>my</code><link>http://my.wikipedia.org/wiki/</link><name>မြန်မာဘာသာ</name></lang>
+	<lang><code>nah</code><link>http://nah.wikipedia.org/wiki/</link><name>Nāhuatl</name></lang>
+
+	<lang><code>nds</code><link>http://nds.wikipedia.org/wiki/</link><name>Plattdüütsch</name></lang>
+	<lang><code>ne</code><link>http://ne.wikipedia.org/wiki/</link><name>नेपाली</name></lang>
+	<lang><code>nl</code><link>http://nl.wikipedia.org/wiki/</link><name>Nederlands</name></lang>
+	<lang><code>nn</code><link>http://nn.wikipedia.org/wiki/</link><name>‪Norsk (nynorsk)‬</name></lang>
+	<lang><code>no</code><link>http://no.wikipedia.org/wiki/</link><name>‪Norsk (bokmål)‬</name></lang>
+	<lang><code>nv</code><link>http://nv.wikipedia.org/wiki/</link><name>Diné bizaad</name></lang>
+
+	<lang><code>oc</code><link>http://oc.wikipedia.org/wiki/</link><name>Occitan</name></lang>
+	<lang><code>pl</code><link>http://pl.wikipedia.org/wiki/</link><name>Polski</name></lang>
+	<lang><code>pt</code><link>http://pt.wikipedia.org/wiki/</link><name>Português</name></lang>
+	<lang><code>qu</code><link>http://qu.wikipedia.org/wiki/</link><name>Runa Simi</name></lang>
+	<lang><code>ro</code><link>http://ro.wikipedia.org/wiki/</link><name>Română</name></lang>
+	<lang><code>ru</code><link>http://ru.wikipedia.org/wiki/</link><name>Русский</name></lang>
+
+	<lang><code>scn</code><link>http://scn.wikipedia.org/wiki/</link><name>Sicilianu</name></lang>
+	<lang><code>sh</code><link>http://sh.wikipedia.org/wiki/</link><name>Srpskohrvatski / Српскохрватски</name></lang>
+	<lang><code>sk</code><link>http://sk.wikipedia.org/wiki/</link><name>Slovenčina</name></lang>
+	<lang><code>sl</code><link>http://sl.wikipedia.org/wiki/</link><name>Slovenščina</name></lang>
+	<lang><code>sq</code><link>http://sq.wikipedia.org/wiki/</link><name>Shqip</name></lang>
+	<lang><code>sr</code><link>http://sr.wikipedia.org/wiki/</link><name>Српски / Srpski</name></lang>
+
+	<lang><code>sv</code><link>http://sv.wikipedia.org/wiki/</link><name>Svenska</name></lang>
+	<lang><code>sw</code><link>http://sw.wikipedia.org/wiki/</link><name>Kiswahili</name></lang>
+	<lang><code>ta</code><link>http://ta.wikipedia.org/wiki/</link><name>தமிழ்</name></lang>
+	<lang><code>th</code><link>http://th.wikipedia.org/wiki/</link><name>ไทย</name></lang>
+	<lang><code>tr</code><link>http://tr.wikipedia.org/wiki/</link><name>Türkçe</name></lang>
+	<lang><code>uk</code><link>http://uk.wikipedia.org/wiki/</link><name>Українська</name></lang>
+
+	<lang><code>vi</code><link>http://vi.wikipedia.org/wiki/</link><name>Tiếng Việt</name></lang>
+	<lang><code>yi</code><link>http://yi.wikipedia.org/wiki/</link><name>ייִדיש</name></lang>
+	<lang><code>yo</code><link>http://yo.wikipedia.org/wiki/</link><name>Yorùbá</name></lang>
+	<lang><code>zh</code><link>http://zh.wikipedia.org/wiki/</link><name>中文</name></lang>
+	<lang><code>zh-classical</code><link>http://zh-classical.wikipedia.org/wiki/</link><name>文言</name></lang>
+</languages>
